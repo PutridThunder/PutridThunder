@@ -77,4 +77,8 @@ soldering coming soon (ENSC 120)
 
 ---
 
+## `03` — PROJECTS
+
+## `04` — INTERESTS
+
 <sub>README under development · More projects and technical documentation underway</sub>
