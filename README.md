@@ -37,7 +37,7 @@ Hardware
 
 ***Future Machine Learning Engineer***
 
-*interest in robotics*
+*interest in robotics (also likes cars)*
 
 Developing practical experience across the end-to-end machine learning workflow, with an interest in building intelligent systems.
 
