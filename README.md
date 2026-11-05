@@ -49,22 +49,30 @@ soldering coming soon (ENSC 120)
 
 ## `03` — PROJECTS
 
-[<h3> MNIST </h3>](https://github.com/PutridThunder/MNIST)
-Neural network trained on handwritten digit images using PyTorch.
+### .FLAGSHIP 🔒
+Personal AI assistant integrating a locally hosted language model, persistent memory, and a custom web interface.
 
-`Machine Learning` · `Deep Learning` · `PyTorch`
+`Python` · `SQLite`  · `TypeScript` · `FastAPI` · `Ollama`
 
-[<h3> CO Level Predictor </h3>](https://github.com/PutridThunder/Machine-Learning/tree/main/Projects/Air_Pollutant)
-Air-quality data analysis and regression modeling to predict carbon monoxide levels.
+*Repository kept private for security and privacy reasons.*
 
-`Data Analysis` · `Regression` · `Scikit-learn`
+### [.MNIST](https://github.com/PutridThunder/MNIST)
+Handwritten digit classification and analysis using a neural network.
 
-### [DotRush](https://github.com/PutridThunder/DotRush)
-Browser-based arcade game built with React and TypeScript.
+`Python` · `NumPy` · `MatplotLib` · `PyTorch`
 
-`TypeScript` · `React` · `Game Development`
+### [.CO Level Predictor](https://github.com/PutridThunder/Machine-Learning/tree/main/Projects/Air_Pollutant)
+Air-quality data analysis and regression modeling to predict carbon monoxide concentrations.
+
+`Python` · `Pandas` · `Scikit-learn`
+
+### [.DotRush](https://github.com/PutridThunder/DotRush)
+Browser-based arcade game featuring interactive gameplay and persistent player progression.
+
+`TypeScript` · `Local Storage`
 
 ## `04` — INTERESTS
 
+<sub>*README under development, more projects and technical documentation underway*</sub>
 
-<sub>README under development · More projects and technical documentation underway</sub>
+*GitHub profile under reorganization*
