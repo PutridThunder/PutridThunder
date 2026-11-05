@@ -78,6 +78,8 @@ soldering coming soon (ENSC 120)
 ---
 
 ## `03` — PROJECTS
+look att these repos:
+- MNIST
 
 ## `04` — INTERESTS
 
