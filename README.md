@@ -43,7 +43,8 @@ Developing practical experience across the end-to-end machine learning workflow,
 
 <img src="https://img.shields.io/badge/Digital%20Multimeter-444444?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/Laboratory%20DC%20Power%20Supply-444444?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-soldering coming soon (ENSC 120)
+<img src="https://img.shields.io/badge/Soldering-444444?style=for-the-badge&logo=probot&logoColor=white"/>
+
 
 ---
 
